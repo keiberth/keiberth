@@ -9,7 +9,10 @@
 	background: #642B73;
 	background: -webkit-linear-gradient(to right, #C6426E, #642B73);
 	background: linear-gradient(to right, #C6426E, #642B73);
-
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .content{
