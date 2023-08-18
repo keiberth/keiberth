@@ -1,0 +1,38 @@
+/*
+	Rosa: 	#C6426E
+	Morado:	#642B73
+	Negro:	#999
+	Gris:	#F5F5F5
+ */
+
+.container {
+	background: #642B73;
+	background: -webkit-linear-gradient(to right, #C6426E, #642B73);
+	background: linear-gradient(to right, #C6426E, #642B73);
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content{
+	max-width: 960px;
+	max-height: 500px;
+	width: 100%;
+	height: 100%;
+	background-color: #FFF;
+}
+
+.red {
+	height: 200px;
+	width: 100px;
+	background-color: red;
+}
+
+#boton-pago {
+	background-color: yellow;
+}
+
+td {
+	border: solid 1px;
+}
